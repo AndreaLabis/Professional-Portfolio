@@ -16,7 +16,7 @@
 		
 			// Set the recipient email address.
 	        // Type here your email id for receive email.
-	        $email_to = "sweetlila111282@gmai.com"; 
+	        $email_to = "sweetlila111282@gmail.com"; 
 
 	        // Set the email subject.
 	        $subject = "New email from $name";
