@@ -1,4 +1,7 @@
 # Professional-Portfolio
 
 Created in February 2020, this is my Professional Portfolio page, showcasing my current accomplishments in the Full Stack Web Development field!
-Here's the link to the deployed version of my Professional Portfolio: https://andrealabis.github.io/Professional-Portfolio
+Here are the links to the deployed versions of my Professional Portfolio - 
+
+Deployed on GitHub Pages: https://andrealabis.github.io/Professional-Portfolio
+Deployed on Heroku: https://andrea-labis-portfolio.herokuapp.com/index.html
