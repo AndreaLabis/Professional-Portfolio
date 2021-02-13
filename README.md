@@ -4,4 +4,4 @@ Created in February 2020, this is my Professional Portfolio page, showcasing my 
 Here are the links to the deployed versions of my Professional Portfolio - 
 
 Deployed on GitHub Pages: https://andrealabis.github.io/Professional-Portfolio
-Deployed on Heroku: https://andrea-labis-portfolio.herokuapp.com/index.html
+
